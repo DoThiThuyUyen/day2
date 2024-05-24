@@ -1,0 +1,99 @@
+[
+
+    {
+      "sr_name": "Attack on Titan",
+      "sr_genre": "Action, Drama, Fantasy",
+      "sr_description": "Humanity must defend itself against giant humanoid creatures known as Titans.",
+      "sr_publish": false,
+       "sr_totalEpisode": 20,
+      "sr_background": "https://res.cloudinary.com/dwu92ycra/image/upload/v1709653620/POP/slider_banner_smart_tv___desktop_copy-3c4f4fdadc4e-1700474487750-4BlsONx2_tke33q.webp",
+      "sr_thumbnail": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686554251/POP/logo_qcem9x.png",
+      "sr_avatar": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686477227/POP/sr_avatar_odxxzu.jpg"
+    },
+    {
+      "sr_name": "Death Note",
+      "sr_genre": "Crime, Mystery, Supernatural",
+      "sr_description": "A high school student discovers a mysterious notebook that allows him to kill anyone by writing their name in it.",
+      "sr_publish": false,
+       "sr_totalEpisode": 20,
+       
+      "sr_background": "https://res.cloudinary.com/dwu92ycra/image/upload/v1709653643/POP/slider_banner_smart_tv___desktop_revised-8b7cc7d5b8b0-1686298758451-yuY2lbra_lyfan9.webp",
+      "sr_thumbnail": "https://res.cloudinary.com/dt8chebsh/image/upload/v1686532068/logo_ycmwd8.png",
+      "sr_avatar": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686477304/POP/sr_avatar_gm6e0m.jpg"
+    },
+    {
+      "sr_name": "Naruto",
+      "sr_genre": "Action, Adventure, Comedy",
+      "sr_description": "The story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.",
+      "sr_publish": false,
+       "sr_totalEpisode": 20,
+       
+      "sr_background": "https://res.cloudinary.com/dwu92ycra/image/upload/v1709653666/POP/slider_web_h_nh_revised____d_n_cho_fix_tr_n_web-4d9860bb0b14-1698035735327-tbKTOaom_fehmld.webp",
+      "sr_thumbnail": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686477848/POP/logo_naruto_mttu00.webp",
+      "sr_avatar": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686477818/POP/sr_avatar_isa32n.jpg"
+    },
+    {
+      "sr_name": "One Piece",
+      "sr_genre": "Action, Adventure, Comedy",
+      "sr_description": "Monkey D. Luffy and his pirate crew explore the Grand Line in search of the ultimate treasure known as One Piece.",
+      "sr_publish": false,
+       "sr_totalEpisode": 20,
+      "sr_background": "https://res.cloudinary.com/dwu92ycra/image/upload/v1709653668/POP/slider_banner_smart_tv___desktop-b44898fab819-1615365380672-vNq7zyFd_a8xpot.webp",
+      "sr_thumbnail": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686477962/POP/logo_one_piece_drplxs.webp",
+      "sr_avatar": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686477963/POP/onpice_Red_w0imoe.jpg"
+    },
+    {
+      "sr_name": "My Hero Academia",
+      "sr_genre": "Action, Comedy, Superhero",
+      "sr_description": "A young boy with no powers in a world where having superpowers is the norm, but he still dreams of becoming a hero.",
+      "sr_publish": false,
+       "sr_totalEpisode": 20,
+      "sr_background": "https://res.cloudinary.com/dwu92ycra/image/upload/v1709653758/POP/download_yvmjkb.webp",
+      "sr_thumbnail": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686554617/POP/logo_dkc7mm.png",
+      "sr_avatar": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686477706/POP/sr_avatar_xuj8lh.jpg"
+    },
+    {
+      "sr_name": "Your Name",
+      "sr_genre": "Drama, Romance, Fantasy",
+      "sr_description": "Two teenagers, a boy and a girl, mysteriously swap bodies and start living each other's lives.",
+      "sr_publish": false,
+       "sr_totalEpisode": 20,
+       
+      "sr_background": "https://res.cloudinary.com/dt8chebsh/image/upload/v1686531610/Unsr_named-1_yltykj.png",
+      "sr_thumbnail": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686553102/POP/logo_nnq4xl.png",
+      "sr_avatar": "https://res.cloudinary.com/dt8chebsh/image/upload/v1686531607/sr_avatar_pxo5jy.png"
+    },
+    {
+      "sr_name": "Fullmetal Alchemist: Brotherhood",
+      "sr_genre": "Action, Adventure, Drama",
+      "sr_description": "Two brothers search for the Philosopher's Stone in order to restore their bodies after a disastrous alchemical experiment.",
+      "sr_publish": false,
+       "sr_totalEpisode": 20,
+       
+      "sr_background": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686495661/POP/sr_background_idt77r.png",
+      "sr_thumbnail": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686555180/POP/logo_cuolu1.png",
+      "sr_avatar": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686477506/POP/sr_avatar_q2b5bu.jpg"
+    },
+    {
+      "sr_name": "Hunter x Hunter",
+      "sr_genre": "Action, Adventure, Fantasy",
+      "sr_description": "A young boy follows in his father's footsteps and becomes a Hunter, a licensed professional who specializes in fantastical pursuits.",
+      "sr_publish": false,
+       "sr_totalEpisode": 20,
+      "sr_background": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686553399/POP/sr_background_jo6bzl.png",
+      "sr_thumbnail": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686553441/POP/log_rxekct.png",
+      "sr_avatar": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686496250/POP/sr_avatar_hxeban.jpg"
+    },
+    {
+      "sr_name": "Demon Slayer: Kimetsu no Yaiba",
+      "sr_genre": "Action, Supernatural, Drama",
+      "sr_description": "A young boy becomes a demon slayer to avenge his family and find a cure for his sister who has been turned into a demon.",
+      "sr_publish": false,
+       "sr_totalEpisode": 20,
+       
+      "sr_background": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686496069/POP/sr_background_ifv8fc.png",
+      "sr_thumbnail": "https://res.cloudinary.com/dt8chebsh/image/upload/v1686532449/logo_nzmfd6.png",
+      "sr_avatar": "https://res.cloudinary.com/dwu92ycra/image/upload/v1686477398/POP/sr_avatar_m7w4tq.jpg"
+    }
+ ]
+  
